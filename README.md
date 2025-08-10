@@ -13,11 +13,11 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 
 | Date       | Problem Number | Problem Name                      | Status     | Notes                      |
 |------------|----------------|---------------------------------|------------|----------------------------|
-| 2025-08-10 | 1              | Two Sum                         | Solved     | Used hash map for O(n)     |
-| 2025-08-11 | 2              | Add Two Numbers                 | Solved     | Implemented linked list    |
-| 2025-08-12 | 3              | Longest Substring Without Repeat| Attempted  | Need to optimize further   |
-|            |                |                                 |            |                            |
-
+|  25-8-8     |      3498          | Reverse degree of string                             |       solved     |           string basic problem                 |
+|  25-8-11     |      3467         | transfrom_array.py                          |       solved     |           array basic problem                 |
+|  25-8-11     |     1431       | kids_with_the_greatest_number.py                       |       solved     |           array basic problem                 |
+|  25-8-11     |      1351        |count_negative_numbers.py                     |       solved     |           array basic problem                 |
+  
 ---
 
 ## About Me
@@ -28,4 +28,4 @@ I am working on improving my algorithm and data structure skills by practicing L
 
 ## Contact
 
-You can reach me at: [your-email@example.com]
+You can reach me at: [shantosr3559@gmail.com]
