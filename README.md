@@ -17,7 +17,8 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-8-11     |      3467         | transfrom_array.py                          |       solved     |           array basic problem                 |
 |  25-8-11     |     1431       | kids_with_the_greatest_number.py                       |       solved     |           array basic problem                 |
 |  25-8-11     |      1351        |count_negative_numbers.py                     |       solved     |           array basic problem                 |
- |  25-8-12     |      2894        |Divisible &non divisible sums difference     | solved   |   math    
+|  25-8-12     |      2894        |Divisible &non divisible sums difference     | solved   |   math    
+|  25-8-12     |      2769        |Find the Maximum Achievable Number    | solved   |   math   
 ---
 
 ## About Me
