@@ -19,7 +19,8 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-8-11     |      1351        |count_negative_numbers.py                     |       solved     |           array basic problem                 |
 |  25-8-12     |      2894        |Divisible &non divisible sums difference     | solved   |   math    
 |  25-8-12     |      2769        |Find the Maximum Achievable Number    | solved   |   math   
-|  25-8-12     |      2469        | convert-the-temperature  | solved   |   math   
+|  25-8-12     |      2469        | convert-the-temperature  | solved   |   math  
+|  25-8-12     |      2235        | Add two integer   | solved   |   math 
 ---
 
 ## About Me
