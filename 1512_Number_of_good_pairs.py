@@ -5,11 +5,23 @@
 # Output: 4
 # Explanation: There are 4 good pairs (0,3), (0,4), (3,4), (2,5) 0-indexed.
 
-class Solution:
-    def numIdenticalPairs(self, nums: List[int]) -> int:
-        count=0
-        for i in range(len(nums)):
-           for j in range(i+1,len(nums)):
-               if nums[i]==nums[j]:
-                 count+=1
-        return count
+# class Solution:
+#     def numIdenticalPairs(self, nums: List[int]) -> int:
+#         count=0
+#         for i in range(len(nums)):
+#            for j in range(i+1,len(nums)):
+#                if nums[i]==nums[j]:
+#                  count+=1
+#         return count
+
+def sum_n(*n):
+  s=0
+  for i in n:
+    s+=i
+  return s
+# nums=[]
+for i in range(5):
+   x=int(input())
+  #  nums.append(x)
+sum_n(x)     
+   
