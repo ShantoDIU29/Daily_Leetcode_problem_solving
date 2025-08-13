@@ -24,6 +24,7 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-8-12     |      3289        | the two sneaky number of digitville  | solved   |   math 
 |  25-8-12     |      1512        | Number of good pairs  | solved   |   math 
 |  25-8-13    |       2652       | sum multiples | solved   |   math 
+|  25-8-14    |       1281       | subtract product and sum of digit | solved   |   math 
 ---
 
 ## About Me
