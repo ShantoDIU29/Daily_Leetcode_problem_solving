@@ -1,4 +1,6 @@
 # Daily LeetCode Problem Solving
+<img width="1008" height="504" alt="image" src="https://github.com/user-attachments/assets/a91e24ba-5a13-4d98-a73e-337eae8365bd" />
+
 
 This repository is dedicated to solving one LeetCode problem daily to improve problem-solving skills and coding proficiency.
 
