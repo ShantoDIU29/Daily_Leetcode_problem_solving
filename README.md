@@ -25,6 +25,8 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-8-12     |      1512        | Number of good pairs  | solved   |   math 
 |  25-8-13    |       2652       | sum multiples | solved   |   math 
 |  25-8-14    |       1281       | subtract product and sum of digit | solved   |   math 
+|  25-8-15    |       break      | really sad moment | bad   |  ----------
+|  25-8-16    |       2535      | Difference Between Element Sum and Digit Sum of an Array| solved   |   math 
 ---
 
 ## About Me
