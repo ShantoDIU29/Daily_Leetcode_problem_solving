@@ -1,4 +1,6 @@
 # Daily LeetCode Problem Solving
+<img width="1008" height="404" alt="image" src="https://github.com/user-attachments/assets/a91e24ba-5a13-4d98-a73e-337eae8365bd" />
+
 
 This repository is dedicated to solving one LeetCode problem daily to improve problem-solving skills and coding proficiency.
 
@@ -27,6 +29,7 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-8-14    |       1281       | subtract product and sum of digit | solved   |   math 
 |  25-8-15    |       break      | really sad moment | bad   |  ----------
 |  25-8-16    |       2535      | Difference Between Element Sum and Digit Sum of an Array| solved   |   math 
+|  25-8-18    |      3300    | Minimum Element After Replacement With Digit Sum| solved   |   math 
 ---
 
 ## About Me
