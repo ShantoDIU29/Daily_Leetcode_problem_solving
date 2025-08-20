@@ -31,6 +31,8 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-8-16    |       2535      | Difference Between Element Sum and Digit Sum of an Array| solved   |   math 
 |  25-8-18    |      3300    | Minimum Element After Replacement With Digit Sum| solved   |   math 
 |  25-8-18    |    1816  | 1816. Truncate Sentence| solved   | array
+|  25-8-19    |    gap  |----------------| ------------   | ----------------
+|  25-8-21    |    3541 | Find Most Frequent Vowel and Consonant| solved   | string
 ---
 
 ## About Me
