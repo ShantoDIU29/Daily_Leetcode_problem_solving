@@ -30,6 +30,7 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-8-15    |       break      | really sad moment | bad   |  ----------
 |  25-8-16    |       2535      | Difference Between Element Sum and Digit Sum of an Array| solved   |   math 
 |  25-8-18    |      3300    | Minimum Element After Replacement With Digit Sum| solved   |   math 
+|  25-8-18    |    1816  | 1816. Truncate Sentence| solved   | array
 ---
 
 ## About Me
