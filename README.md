@@ -36,7 +36,7 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-8-22   |    3512| Minimum Operations to Make Array Sum Divisible by K| solved   | math
 |  25-8-22   |    1688.| Count of Matches in Tournament |solved   | math
 --------------------------Exam Time start NoW--------------------------------------------
-|  25-8-22   |   2974.| Minimum Number Game|solved   | Sorting
+|  25-8-23   |   2974.| Minimum Number Game|solved   | Sorting
  
 ---
 
