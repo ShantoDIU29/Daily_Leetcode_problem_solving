@@ -38,6 +38,7 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 --------------------------Exam Time start NoW--------------------------------------------
 |  25-8-23   |   2974.| Minimum Number Game|solved   | Sorting
 |  25-9-02   |   442| Find all Duplicate Value|solved   | Hash Table
+|  25-9-04   |    2520.| Count the Digits That Divide a Number|solved   |math
  
 ---
 
