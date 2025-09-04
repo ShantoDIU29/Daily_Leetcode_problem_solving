@@ -39,8 +39,9 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-8-23   |   2974.| Minimum Number Game|solved   | Sorting
 |  25-9-02   |   442| Find all Duplicate Value|solved   | Hash Table
 |  25-9-04   |    2520.| Count the Digits That Divide a Number|solved   |math
-|  25-9-04   |   1342.|  Number of Steps to Reduce a Number to Zero|solved   |math
+|  25-9-05  |   1342.|  Number of Steps to Reduce a Number to Zero|solved   |math
 |  25-9-05   |   771|   Count Good Triplets|solved   | Hash Table
+|  25-9-05   |   2367 |Number of Arithmetic Triplets Count Good Triplets|solved   | Hash Table
  
  
 ---
