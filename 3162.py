@@ -7,3 +7,4 @@ for i in range(len(nums1)):
      if nums1[i]% (nums2[j]*k)==0:
         count+=1
 print(count)       
+          
