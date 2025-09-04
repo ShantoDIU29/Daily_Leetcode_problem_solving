@@ -42,6 +42,7 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-9-05  |   1342.|  Number of Steps to Reduce a Number to Zero|solved   |math
 |  25-9-05   |   771|   Count Good Triplets|solved   | Hash Table
 |  25-9-05   |   2367 |Number of Arithmetic Triplets Count Good Triplets|solved   | Hash Table
+|  25-9-05   |  3162. | Find the Number of Good Pairs I|solved   | Hash Table
  
  
 ---
