@@ -45,6 +45,7 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-9-05   |  3162. | Find the Number of Good Pairs I|solved   | Hash Table
 |  25-9-05   | 2006| Count Number of Pairs With Absolute Difference K|solved   | Hash Table
 |  25-9-05   |2418|  Sort the People    |solved   | Hash Table
+|  25-9-06   |1108|   Defanging an IP Address |solved   | string
  
  
 ---
