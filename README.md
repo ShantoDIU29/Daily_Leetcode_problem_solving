@@ -47,7 +47,7 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-9-05   |2418|  Sort the People    |solved   | Hash Table
 |  25-9-06   |1108|   Defanging an IP Address |solved   | string
 |  25-9-06   |3280 |  Convert Date to Binary |solved   | string
- 
+|  25-9-06   | 709|  To Lower Case |solved   | string
 
 
 ## About Me
