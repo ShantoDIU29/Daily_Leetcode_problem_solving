@@ -48,7 +48,7 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-9-06   |1108|   Defanging an IP Address |solved   | string
 |  25-9-06   |3280 |  Convert Date to Binary |solved   | string
 |  25-9-06   | 709|  To Lower Case |solved   | string
-
+|  25-9-06   | 1678 |  Goal Parser Interpretation |solved   | string
 
 ## About Me
 
