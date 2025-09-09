@@ -51,7 +51,7 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-9-06   | 1678 |  Goal Parser Interpretation |solved   | string
 |  25-9-07  | 2798| Number of Employees Who Met the Target |solved   | array
 |  25-9-07  |  2824| Count Pairs Whose Sum is Less than Target|solved   | array
-|  25-9-08  | 2114 | Kth Distinct String in an Array|solved   | Hash Table
+|  25-9-08  | 2114 | Kth Distinct String in an Array|solved   |string
 
 ## About Me
 
