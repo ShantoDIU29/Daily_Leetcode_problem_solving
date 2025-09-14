@@ -54,6 +54,8 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-9-09  | 2114 | Kth Distinct String in an Array|solved   |string
 |  25-9-10  |3668 |Restore Finishing Order|solved   |array
 |  25-9-10  |3099 | Harshad Number|solved   |math
+|  25-9-11  |1221|Split a String in Balanced Strings
+|solved |string
 
 ## About Me
 
