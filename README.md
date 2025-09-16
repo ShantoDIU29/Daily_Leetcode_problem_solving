@@ -56,7 +56,7 @@ This repository is dedicated to solving one LeetCode problem daily to improve pr
 |  25-9-10  |3099 | Harshad Number|solved   |math
 |  25-9-11  |1221|Split a String in Balanced Strings
 |solved |string
-
+|  25-9-14  | 1365|How Many Numbers Are Smaller Than the Current Number|solved|math
 ## About Me
 
 I am working on improving my algorithm and data structure skills by practicing LeetCode problems daily.
